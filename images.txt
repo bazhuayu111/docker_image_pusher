@@ -4,3 +4,4 @@ nacos/nacos-server
 redis
 elasticsearch:7.3.1
 xuxueli/xxl-job-admin:2.4.0
+mysql:8.0.36
